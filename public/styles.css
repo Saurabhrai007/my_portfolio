@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Poppins:wght@300;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  background: transparent;
+}
+
+body {
+  background: rgb(21, 17, 40);
+  color: white;
+  overflow: hidden;
+  overflow-y: scroll;
+  font-family: 'Poppins', sans-serif;
+
+}
